@@ -1,0 +1,173 @@
+body{
+font-family: sans-serif;
+background-color: white;
+direction: rtl;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    justify-items: center;
+    text-align: center;
+    
+    
+}
+
+
+
+
+.box1{
+    width: 100vw;
+  height: 150px; 
+  
+
+ text-align: center;
+}
+.logo{
+   
+    height: 125px;
+    width: 178px;
+}
+.ul{
+    color: white;
+    position: absolute;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    
+    
+}
+.link{
+    color: white;
+     text-decoration: none;
+    
+}
+
+
+
+
+.box2{
+    width: 00%;
+    height: 5vh;
+    background-color: rgb(5, 4, 4);
+    
+    display: block;
+
+}
+.nav{
+ background-color: #de1a1a;
+ color: white;
+ position: absolute;
+ width: 95%;
+ display: flex;
+ justify-content: space-between;
+ list-style: none;
+ height: 5vh;
+ margin-top: 0px;
+ padding-top: 8px;
+    
+    
+
+}
+.box3{
+width:  50%;
+max-height: 100%;
+display: block;
+
+float: left;
+margin-left: auto;
+margin:0%
+
+
+}
+.divre1{
+    width: 50vw;
+    background-color: #de1a1a;
+    height: 20vw;
+}
+
+
+.box4{
+    width: 50%;
+    height: 400px;
+    float: left; 
+    background-color: white(211, 195, 206);
+    margin-left: auto;
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    text-align: right;
+    font-size: 20px;
+    
+    display: flex;
+}
+
+    .box5{
+        width: 50%;
+        height: 15vh;
+        background-color: #de1a1a;
+        margin-right: auto;
+        display: flex;
+        margin-bottom: 10px;
+        color: white; 
+       
+    }
+    
+    .box5 p {
+        width: 78%;
+    }
+    .div1{
+    width: 90%;
+    
+    }
+    
+    .pic1{
+        
+            width: 100%;
+            height: 350px;
+            margin-top: 5%;
+    }
+    .box6{
+        width: 50%;
+        height: 15vh;
+        background-color: blue;
+        margin-right: auto;
+        display: flex;
+        margin-bottom: 10px;
+        color: white;
+       
+    }
+    
+    .box6 p {
+        width: 78%;
+    }
+    .box7{
+        width: 50%;
+        height: 15vh;
+        background-color: #de1a1a;
+        margin-right: auto;
+        display: flex;
+        margin-bottom: 10px;
+        color: white;
+        
+       
+    }
+    
+    .box7 p {
+        width: 78%;
+    }
+    .box8{
+        width: 50%;
+        height: 15vh;
+        background-color: blue;
+        margin-right: auto;
+        display: flex;
+        margin-bottom: 10px;
+        color: white;
+        
+       
+    }
+    
+    .box8 p {
+        width: 78%;
+    }
